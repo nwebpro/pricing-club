@@ -15,4 +15,27 @@
 - Hero icons
 
 # Setup / Installation: 💻
-- Download or clone the repository `git clone https://github.com/nwebpro/pricing-club.git`
+Please follow the below instructions to run this project in your computer:
+
+- Download or clone the repository 
+    ```sh
+    git clone https://github.com/nwebpro/pricing-club.git
+    ```
+- Go to the cloned project director
+    ```sh
+    cd pricing-club
+    ```
+- Install Node Modules:
+    ```sh
+    npm i
+    ```
+- In the project directory, you can run:
+    ```sh
+    yarn start
+    ```
+    or
+    ```sh
+    npm start
+    ```
+- Install VS Code Live Server plugin and start the server
+- Your app should be available in http://localhost:3000

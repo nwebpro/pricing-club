@@ -15,7 +15,6 @@
 - Hero icons
 
 # Setup / Installation: 💻
-Please follow the below instructions to run this project in your computer:
 
 - Download or clone the repository 
     ```sh
